@@ -1,2 +1,3 @@
-Personal Portfoilo using HTML and CSS.
-live web page link provided in about section.
+# Personal Portfolio
+Personal Portfolio made using HTML and CSS.
+Live web page link provided in about section.
